@@ -1,0 +1,7 @@
+app
+*.out
+.vscode
+*.txt
+cs50.*
+base.c
+main
